@@ -1,0 +1,6 @@
+D:\11th grade\tosee\C#\08-20\tamrin\tamrin\bin\Debug\tamrin.exe.config
+D:\11th grade\tosee\C#\08-20\tamrin\tamrin\bin\Debug\tamrin.exe
+D:\11th grade\tosee\C#\08-20\tamrin\tamrin\bin\Debug\tamrin.pdb
+D:\11th grade\tosee\C#\08-20\tamrin\tamrin\obj\Debug\tamrin.csprojResolveAssemblyReference.cache
+D:\11th grade\tosee\C#\08-20\tamrin\tamrin\obj\Debug\tamrin.exe
+D:\11th grade\tosee\C#\08-20\tamrin\tamrin\obj\Debug\tamrin.pdb
