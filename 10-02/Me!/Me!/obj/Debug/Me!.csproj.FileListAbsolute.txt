@@ -1,0 +1,9 @@
+D:\11th grade\tosee\C#\10-02\Me!\Me!\bin\Debug\Me!.exe.config
+D:\11th grade\tosee\C#\10-02\Me!\Me!\bin\Debug\Me!.exe
+D:\11th grade\tosee\C#\10-02\Me!\Me!\bin\Debug\Me!.pdb
+D:\11th grade\tosee\C#\10-02\Me!\Me!\obj\Debug\Me!.csprojResolveAssemblyReference.cache
+D:\11th grade\tosee\C#\10-02\Me!\Me!\obj\Debug\Me_.Form1.resources
+D:\11th grade\tosee\C#\10-02\Me!\Me!\obj\Debug\Me_.Properties.Resources.resources
+D:\11th grade\tosee\C#\10-02\Me!\Me!\obj\Debug\Me!.csproj.GenerateResource.Cache
+D:\11th grade\tosee\C#\10-02\Me!\Me!\obj\Debug\Me!.exe
+D:\11th grade\tosee\C#\10-02\Me!\Me!\obj\Debug\Me!.pdb

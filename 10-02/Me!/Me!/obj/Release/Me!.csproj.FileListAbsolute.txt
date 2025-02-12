@@ -1,0 +1,8 @@
+D:\11th grade\tosee\C#\10-02\Me!\Me!\bin\Release\Me!.exe.config
+D:\11th grade\tosee\C#\10-02\Me!\Me!\bin\Release\Me!.exe
+D:\11th grade\tosee\C#\10-02\Me!\Me!\bin\Release\Me!.pdb
+D:\11th grade\tosee\C#\10-02\Me!\Me!\obj\Release\Me_.Form1.resources
+D:\11th grade\tosee\C#\10-02\Me!\Me!\obj\Release\Me_.Properties.Resources.resources
+D:\11th grade\tosee\C#\10-02\Me!\Me!\obj\Release\Me!.csproj.GenerateResource.Cache
+D:\11th grade\tosee\C#\10-02\Me!\Me!\obj\Release\Me!.exe
+D:\11th grade\tosee\C#\10-02\Me!\Me!\obj\Release\Me!.pdb
